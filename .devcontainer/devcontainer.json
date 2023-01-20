@@ -8,7 +8,6 @@
     "ghcr.io/devcontainers/features/python:1": {},
     "ghcr.io/mpriscella/features/helm-chart-testing:1": {},
     "ghcr.io/devcontainers/features/java:1": {},
-    "ghcr.io/devcontainers/features/terraform:1": {},
     "ghcr.io/devcontainers-contrib/features/isort:2": {},
     "ghcr.io/devcontainers-contrib/features/yamllint:2": {}
   }
