@@ -7,44 +7,6 @@
     "ghcr.io/rchaganti/vsc-devcontainer-features/azurebicep:1": {}
   },
   "extensions": [
-    // code runner
-    "formulahendry.code-runner",
-    // git
-    "eamodio.gitlens",
-    "GitLab.gitlab-workflow",
-    // ide
-    "streetsidesoftware.code-spell-checker",
-    "Gruntfuggly.todo-tree",
-    "vscode-icons-team.vscode-icons",
-    "oderwat.indent-rainbow",
-    "sabitovvt.favorites-panel",
-    "usernamehw.errorlens",
-    // markdown
-    "DavidAnson.vscode-markdownlint",
-    // powershell
-    "ms-vscode.PowerShell",
-    "TylerLeonhardt.vscode-inline-values-powershell",
-    // python
-    "almenon.arepl",
-    "frhtylcn.pythonsnippets",
-    "matangover.mypy",
-    "ms-python.python",
-    "ms-python.vscode-pylance",
-    "njpwerner.autodocstring",
-    "njqdev.vscode-python-typehint",
-    // shell
-    "timonwong.shellcheck",
-    "mads-hartmann.bash-ide-vscode",
-    "rogalmic.bash-debug",
-    "foxundermoon.shell-format",
-    // testing
-    "ryanluker.vscode-coverage-gutters",
-    // toml
-    "tamasfe.even-better-toml",
-    // yaml
-    "redhat.vscode-yaml",
-    "tuxtina.json2yaml",
-    // rest client
-    "rangav.vscode-thunder-client"
+    "oderwat.indent-rainbow"
   ]
 }
